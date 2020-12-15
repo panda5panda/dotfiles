@@ -9,6 +9,8 @@ syntax enable
 set modifiable
 set write
 set encoding=utf-8
+set tabstop=2
+set shiftwidth=2
 
 
 " Pluginディレクトリのパス    
